@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - OneWayPlatform
+  - RespawnPoint
+  - CheckPoint
+  - Berry
+  - DashSeed
+  - disappear
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3304623547
+    locked: 0
+  - name: Object
+    uniqueID: 1911640845
+    locked: 0
+  - name: Platform
+    uniqueID: 1494100349
+    locked: 0
+  - name: Player
+    uniqueID: 1371379901
+    locked: 0
+  - name: UI
+    uniqueID: 1495732497
+    locked: 0
